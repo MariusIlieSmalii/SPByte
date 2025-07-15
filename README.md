@@ -14,6 +14,7 @@ Construir una sociedad digital donde los proyectos se estructuren con propósito
 ## Estructura del repositorio
 - `/frontend`: interfaz de SPByte y navegación entre blocks
 - `/backend`: APIs, base de datos y lógica central
+- `/blocks`: proyectos modulares que representan áreas clave
 - `/docs`: documentación extendida, guías de uso y contribución
 
 ## Contribuir
